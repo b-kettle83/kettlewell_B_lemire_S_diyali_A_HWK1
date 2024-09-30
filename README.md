@@ -14,7 +14,8 @@
 - Tech
 - Music
 
-![drum](images/drum.jpeg)
+![drum](images/drum2.JPG)
+This is an image of the first drumstick I broke 
 
 
 
@@ -25,16 +26,16 @@
 - Videography
 - Video Editing
 - Gaming
-- photo editing
-- fishing
+- Photo editing
+- Fishing
 ### Skills
-- well-organized
-- photography
-- coding
+- Well-organized
+- Photography
+- Coding
 - Music
 
-![mountain](images/Mardi.jpg)
-This is my favourite photo, which was captured during my  trek to mardi himal base camp.
+![mountain](images/Mardi.JPG)
+This is my favourite photo, which was captured during my trek to mardi himal base camp.
 
 
 
