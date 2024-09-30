@@ -1,2 +1,17 @@
-# kettlewell_ben_lemire_samie_diyali_aayush_hwk1
-Multimedia Authoring Hwk1 - An introduction to Github and the README file by creating short profiles with images
+# Ben, Samie, & Aayush
+***Wait that's a third person***
+
+## Ben Kettlewell
+### Hobbies
+- Drumming
+- Videography
+- Video Editing
+- Gaming
+
+### Skills
+- Organization
+- Media
+- Tech
+- Music
+
+![drum](images/drum.jpeg)
